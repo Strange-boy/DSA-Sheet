@@ -15,25 +15,24 @@ This file tracks all DSA problems solved in Java, organized by topic.
 
 ## 🌱 Level 1 – Beginner
 
-| Problem              | Platform      | Solution                                                   |
-|----------------------|---------------|------------------------------------------------------------|
-| Print Increasing     | Pepcoding     | [PrintIncreasing.java](src/recursion/level1/PrintIncreasing.java) |
-| Factorial of N       | LeetCode      | [Factorial.java](src/recursion/level1/Factorial.java)     |
-| Fibonacci Sequence   | LeetCode      | [Fibonacci.java](src/recursion/level1/Fibonacci.java)     |
+| Problem            | Platform      | Solution                                                          | Difficulty | Last Revised |
+|--------------------|---------------|-------------------------------------------------------------------|------------|--------------|
+| Print Decreasing   | Pepcoding     | [PrintDecreasing.java](src/recursion/level1/PrintDecreasing.java) | 🟢 Easy    | 2025-09-14   |
+| Factorial of N     | LeetCode      | [Factorial.java](src/recursion/level1/Factorial.java)             | 🟢 Easy    | 2025-09-14   |
 
 ---
 
 ## 🔹 Level 2 – Intermediate
 
-| Problem              | Platform      | Solution                                                   |
-|----------------------|---------------|------------------------------------------------------------|
-| Tower of Hanoi       | GeeksforGeeks | [TowerOfHanoi.java](src/recursion/level2/TowerOfHanoi.java) |
-| Sum of Array         | Pepcoding     | [SumOfArray.java](src/recursion/level2/SumOfArray.java)   |
+| Problem              | Platform      | Solution                                                   | Difficulty | Last Revised |
+|----------------------|---------------|------------------------------------------------------------|------------|--------------|
+| Tower of Hanoi       | GeeksforGeeks | [TowerOfHanoi.java](src/recursion/level2/TowerOfHanoi.java) | 🟡 Medium  |    |
+| Sum of Array         | Pepcoding     | [SumOfArray.java](src/recursion/level2/SumOfArray.java)     | 🟢 Easy    |   |
 
 ---
 
 ## 📂 Arrays
 
-| Problem | Platform | Solution |
-|---------|---------|----------|
-| Two Sum | LeetCode | [TwoSum.java]() |
+| Problem  | Platform | Solution        | Difficulty | Last Revised |
+|----------|----------|-----------------|------------|--------------|
+| Two Sum  | LeetCode | [TwoSum.java]() | 🟢 Easy    |  |
