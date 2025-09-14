@@ -15,10 +15,11 @@ This file tracks all DSA problems solved in Java, organized by topic.
 
 ## 🌱 Level 1 – Beginner
 
-| Problem            | Platform      | Solution                                                          | Difficulty | Last Revised |
-|--------------------|---------------|-------------------------------------------------------------------|------------|--------------|
-| Print Decreasing   | Pepcoding     | [PrintDecreasing.java](src/recursion/level1/PrintDecreasing.java) | 🟢 Easy    | 2025-09-14   |
-| Factorial of N     | LeetCode      | [Factorial.java](src/recursion/level1/Factorial.java)             | 🟢 Easy    | 2025-09-14   |
+| Problem          | Platform      | Solution                                                          | Difficulty | Last Revised |
+|------------------|---------------|-------------------------------------------------------------------|------------|--------------|
+| Print Decreasing | Pepcoding     | [PrintDecreasing.java](src/recursion/level1/PrintDecreasing.java) | 🟢 Easy    | 2025-09-14   |
+| Print Increasing | Pepcoding     | [PrintIncreasing.java](src/recursion/level1/PrintIncreasing.java) | 🟢 Easy    | 2025-09-14   |
+| Factorial of N   | LeetCode      | [Factorial.java](src/recursion/level1/Factorial.java)             | 🟢 Easy    | 2025-09-14   |
 
 ---
 
