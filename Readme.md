@@ -36,10 +36,11 @@ This file tracks all DSA problems solved in Java, organized by topic.
 
 ### Array Based recursive Questions
 
-| Problem               | Platform  | Solution                                                           | Difficulty | Last Revised |
-|-----------------------|-----------|--------------------------------------------------------------------|------------|--------------|
-| Display Array         | Pepcoding | [DisplayArray.java](src/recursion/level1/DisplayArray.java)        | 🟢 Easy    | 2025-09-20   |
+| Problem               | Platform  | Solution                                                                  | Difficulty | Last Revised |
+|-----------------------|-----------|---------------------------------------------------------------------------|------------|--------------|
+| Display Array         | Pepcoding | [DisplayArray.java](src/recursion/level1/DisplayArray.java)               | 🟢 Easy    | 2025-09-20   |
 | Display Array Reverse | Pepcoding | [DisplayArrayReverse.java](src/recursion/level1/DisplayArrayReverse.java) | 🟢 Easy    | 2025-09-20   |
+| Max element in Array  | Pepcoding | [MaxElementArray.java](src/recursion/level1/MaxElementArray.java)         | 🟢 Easy    | 2025-09-20   |
 
 
 ---
