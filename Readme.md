@@ -29,10 +29,17 @@ This file tracks all DSA problems solved in Java, organized by topic.
 
 ### Core concept questions
 
-| Problem       | Platform  | Solution                                                   | Difficulty | Last Revised |
-|---------------|-----------|------------------------------------------------------------|------------|--------------|
-| Print Zig-Zag | Pepcoding | [TowerOfHanoi.java](src/recursion/level2/PrintZigZag.java) | 🟡 Medium  | 2025-09-21   |
-| Sum of Array  | Pepcoding | [SumOfArray.java](src/recursion/level2/TowerOfHanoi.java)  | 🟡 Medium  | 2025-09-21   |
+| Problem       | Platform  | Solution                                                    | Difficulty | Last Revised |
+|---------------|-----------|-------------------------------------------------------------|------------|--------------|
+| Print Zig-Zag | Pepcoding | [PrintZigZag.java](src/recursion/level2/PrintZigZag.java)   | 🟡 Medium  | 2025-09-20   |
+| Tower of Hanoi  | Pepcoding | [TowerOfHanoi.java](src/recursion/level2/TowerOfHanoi.java) | 🟡 Medium  | 2025-09-20   |
+
+### Array Based recursive Questions
+
+| Problem       | Platform  | Solution                                                       | Difficulty | Last Revised |
+|---------------|-----------|----------------------------------------------------------------|------------|--------------|
+| Display Array | Pepcoding | [DisplayArray.java](src/recursion/level1/DisplayArray.java) | 🟢 Easy    | 2025-09-20   |
+
 
 ---
 
