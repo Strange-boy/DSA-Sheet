@@ -31,8 +31,8 @@ This file tracks all DSA problems solved in Java, organized by topic.
 
 | Problem       | Platform  | Solution                                                   | Difficulty | Last Revised |
 |---------------|-----------|------------------------------------------------------------|------------|--------------|
-| Print Zig-Zag | Pepcoding | [TowerOfHanoi.java](src/recursion/level2/TowerOfHanoi.java) | 🟡 Medium  | 2025-09-21   |
-| Sum of Array  | Pepcoding | [SumOfArray.java](src/recursion/level2/SumOfArray.java)     | 🟢 Easy    |              |
+| Print Zig-Zag | Pepcoding | [TowerOfHanoi.java](src/recursion/level2/PrintZigZag.java) | 🟡 Medium  | 2025-09-21   |
+| Sum of Array  | Pepcoding | [SumOfArray.java](src/recursion/level2/TowerOfHanoi.java)  | 🟡 Medium  | 2025-09-21   |
 
 ---
 
