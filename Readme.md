@@ -42,7 +42,8 @@ This file tracks all DSA problems solved in Java, organized by topic.
 | 9   | Display Array         | Pepcoding | [DisplayArray.java](src/recursion/level1/DisplayArray.java)               | 🟢 Easy    | 2025-09-20   | ✅ Yes           |
 | 10  | Display Array Reverse | Pepcoding | [DisplayArrayReverse.java](src/recursion/level1/DisplayArrayReverse.java) | 🟢 Easy    | 2025-09-20   | ✅ Yes           |
 | 11  | Max element in Array  | Pepcoding | [MaxElementArray.java](src/recursion/level1/MaxElementArray.java)         | 🟢 Easy    | 2025-09-20   | ✅ Yes           |
-| 12  | First Index in Array  | Pepcoding | [FirstIndexOccurence.java](src/recursion/level1/FirstIndexOccurence.java)     | 🟢 Easy    | 2025-09-27   | ✅ Yes           |
+| 12  | First Index in Array  | Pepcoding | [FirstIndexOccurence.java](src/recursion/level1/FirstIndexOccurence.java) | 🟢 Easy    | 2025-09-27   | ✅ Yes           |
+| 13  | Last Index in Array   | Pepcoding | [LastIndexOccurence.java](src/recursion/level1/LastIndexOccurence.java)   | 🟢 Easy    | 2025-10-06   | ✅ Yes           |
 
 ---
 
