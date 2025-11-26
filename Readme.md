@@ -48,7 +48,7 @@ This file tracks all DSA problems solved in Java, organized by topic.
 
 ---
 
-## Recursion using Arraylist & String
+## Recursion using Arraylist & String (On the way down)
 
 | No. | Problem                       | Platform  | Solution                                                            | Difficulty | Last Revised | Solved on my own |
 |-----|-------------------------------|-----------|---------------------------------------------------------------------|------------|--------------|------------------|
@@ -56,6 +56,16 @@ This file tracks all DSA problems solved in Java, organized by topic.
 | 16  | Get Stair paths (1,2,3 jumps) | Pepcoding | [GetStairPaths.java](src/recursion/level1/GetStairPaths.java)       | 🟢 Medium  | 2025-11-23   | ❌          |
 | 17  | Get Maze paths (h or v)       | Pepcoding | [GetMazePaths.java](src/recursion/level1/GetMazePaths.java)         | 🟢 Medium  | 2025-11-23   | ❌          |
 | 18  | Get Maze paths (h or v)       | Pepcoding | [GetMazePathsWithJump.java](src/recursion/level1/GetMazePathsWithJump.java) | 🟢 Medium  | 2025-11-24   | ❌          |
+
+---
+
+## Recursion using Arraylist & String (On the way up)
+
+| No. | Problem           | Platform  | Solution                                                          | Difficulty | Last Revised | Solved on my own |
+|-----|-------------------|-----------|-------------------------------------------------------------------|------------|--------------|------------------|
+| 15  | Print Subsequence | Pepcoding | [getSubsequence.java](src/recursion/level1/PrintSubsequence.java) | 🟢 Medium  | 2025-11-26   | ❌          |
+
+
 
 
 ---
