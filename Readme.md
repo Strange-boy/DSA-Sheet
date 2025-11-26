@@ -65,7 +65,7 @@ This file tracks all DSA problems solved in Java, organized by topic.
 |-----|-------------------|-----------|---------------------------------------------------------------------|------------|--------------|------------------|
 | 19  | Print Subsequence | Pepcoding | [PrintSubsequence.java](src/recursion/level1/PrintSubsequence.java) | 🟢 Medium  | 2025-11-26   | ❌          |
 | 20  | Print Stair Path  | Pepcoding | [PrintStairPath.java](src/recursion/level1/PrintStairPath.java)     | 🟢 Medium  | 2025-11-26   | ❌          |
-
+| 21  | Print Maze Path   | Pepcoding | [PrintMazePath.java](src/recursion/level1/PrintMazePath.java)       | 🟢 Medium  | 2025-11-26   | ❌          |
 
 
 
