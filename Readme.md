@@ -61,9 +61,10 @@ This file tracks all DSA problems solved in Java, organized by topic.
 
 ## Recursion using Arraylist & String (On the way up)
 
-| No. | Problem           | Platform  | Solution                                                          | Difficulty | Last Revised | Solved on my own |
-|-----|-------------------|-----------|-------------------------------------------------------------------|------------|--------------|------------------|
-| 15  | Print Subsequence | Pepcoding | [getSubsequence.java](src/recursion/level1/PrintSubsequence.java) | 🟢 Medium  | 2025-11-26   | ❌          |
+| No. | Problem           | Platform  | Solution                                                            | Difficulty | Last Revised | Solved on my own |
+|-----|-------------------|-----------|---------------------------------------------------------------------|------------|--------------|------------------|
+| 19  | Print Subsequence | Pepcoding | [PrintSubsequence.java](src/recursion/level1/PrintSubsequence.java) | 🟢 Medium  | 2025-11-26   | ❌          |
+| 20  | Print Stair Path  | Pepcoding | [PrintStairPath.java](src/recursion/level1/PrintStairPath.java)     | 🟢 Medium  | 2025-11-26   | ❌          |
 
 
 
