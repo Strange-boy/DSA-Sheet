@@ -52,20 +52,21 @@ This file tracks all DSA problems solved in Java, organized by topic.
 
 | No. | Problem                       | Platform  | Solution                                                            | Difficulty | Last Revised | Solved on my own |
 |-----|-------------------------------|-----------|---------------------------------------------------------------------|------------|--------------|------------------|
-| 15  | Get Subsequence               | Pepcoding | [getSubsequence.java](src/recursion/level1/GetSubsequence.java)     | 🟢 Medium  | 2025-10-09   | ❌          |
-| 16  | Get Stair paths (1,2,3 jumps) | Pepcoding | [GetStairPaths.java](src/recursion/level1/GetStairPaths.java)       | 🟢 Medium  | 2025-11-23   | ❌          |
-| 17  | Get Maze paths (h or v)       | Pepcoding | [GetMazePaths.java](src/recursion/level1/GetMazePaths.java)         | 🟢 Medium  | 2025-11-23   | ❌          |
-| 18  | Get Maze paths (h or v)       | Pepcoding | [GetMazePathsWithJump.java](src/recursion/level1/GetMazePathsWithJump.java) | 🟢 Medium  | 2025-11-24   | ❌          |
+| 15  | Get Subsequence               | Pepcoding | [getSubsequence.java](src/recursion/level1/GetSubsequence.java)     | 🟡 Medium  | 2025-10-09   | ❌          |
+| 16  | Get Stair paths (1,2,3 jumps) | Pepcoding | [GetStairPaths.java](src/recursion/level1/GetStairPaths.java)       | 🟡 Medium  | 2025-11-23   | ❌          |
+| 17  | Get Maze paths (h or v)       | Pepcoding | [GetMazePaths.java](src/recursion/level1/GetMazePaths.java)         | 🟡 Medium  | 2025-11-23   | ❌          |
+| 18  | Get Maze paths (h or v)       | Pepcoding | [GetMazePathsWithJump.java](src/recursion/level1/GetMazePathsWithJump.java) | 🟡 Medium  | 2025-11-24   | ❌          |
 
 ---
 
 ## Recursion using Arraylist & String (On the way up)
 
-| No. | Problem           | Platform  | Solution                                                            | Difficulty | Last Revised | Solved on my own |
-|-----|-------------------|-----------|---------------------------------------------------------------------|------------|--------------|------------------|
-| 19  | Print Subsequence | Pepcoding | [PrintSubsequence.java](src/recursion/level1/PrintSubsequence.java) | 🟢 Medium  | 2025-11-26   | ❌          |
-| 20  | Print Stair Path  | Pepcoding | [PrintStairPath.java](src/recursion/level1/PrintStairPath.java)     | 🟢 Medium  | 2025-11-26   | ❌          |
-| 21  | Print Maze Path   | Pepcoding | [PrintMazePath.java](src/recursion/level1/PrintMazePath.java)       | 🟢 Medium  | 2025-11-26   | ❌          |
+| No. | Problem                    | Platform  | Solution                                                                        | Difficulty | Last Revised | Solved on my own |
+|-----|----------------------------|-----------|---------------------------------------------------------------------------------|------------|--------------|----------------|
+| 19  | Print Subsequence          | Pepcoding | [PrintSubsequence.java](src/recursion/level1/PrintSubsequence.java)             | 🟡 Medium  | 2025-11-26   | ❌        |
+| 20  | Print Stair Path           | Pepcoding | [PrintStairPath.java](src/recursion/level1/PrintStairPath.java)                 | 🟡 Medium  | 2025-11-26   | ✅          |
+| 21  | Print Maze Path            | Pepcoding | [PrintMazePath.java](src/recursion/level1/PrintMazePath.java)                   | 🟡 Medium  | 2025-11-26   | ✅          |
+| 22  | Print Maze Path With Jumps | Pepcoding | [PrintMazePathWithJumps.java](src/recursion/level1/PrintMazePathWithJumps.java) | 🟡 Medium  | 2025-11-28   | ✅          |
 
 
 
