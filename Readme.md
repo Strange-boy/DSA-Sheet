@@ -61,12 +61,13 @@ This file tracks all DSA problems solved in Java, organized by topic.
 
 ## Recursion using Arraylist & String (On the way up)
 
-| No. | Problem                    | Platform  | Solution                                                                        | Difficulty | Last Revised | Solved on my own |
-|-----|----------------------------|-----------|---------------------------------------------------------------------------------|------------|--------------|----------------|
-| 19  | Print Subsequence          | Pepcoding | [PrintSubsequence.java](src/recursion/level1/PrintSubsequence.java)             | 🟡 Medium  | 2025-11-26   | ❌        |
-| 20  | Print Stair Path           | Pepcoding | [PrintStairPath.java](src/recursion/level1/PrintStairPath.java)                 | 🟡 Medium  | 2025-11-26   | ✅          |
-| 21  | Print Maze Path            | Pepcoding | [PrintMazePath.java](src/recursion/level1/PrintMazePath.java)                   | 🟡 Medium  | 2025-11-26   | ✅          |
+| No. | Problem                    | Platform  | Solution                                                                      | Difficulty | Last Revised | Solved on my own |
+|-----|----------------------------|-----------|-------------------------------------------------------------------------------|------------|--------------|----------------|
+| 19  | Print Subsequence          | Pepcoding | [PrintSubsequence.java](src/recursion/level1/PrintSubsequence.java)           | 🟡 Medium  | 2025-11-26   | ❌        |
+| 20  | Print Stair Path           | Pepcoding | [PrintStairPath.java](src/recursion/level1/PrintStairPath.java)               | 🟡 Medium  | 2025-11-26   | ✅          |
+| 21  | Print Maze Path            | Pepcoding | [PrintMazePath.java](src/recursion/level1/PrintMazePath.java)                 | 🟡 Medium  | 2025-11-26   | ✅          |
 | 22  | Print Maze Path With Jumps | Pepcoding | [PrintMazePathWithJumps.java](src/recursion/level1/PrintMazePathWithJumps.java) | 🟡 Medium  | 2025-11-28   | ✅          |
+| 24  | Print Permutations         | Pepcoding | [PrintPermutation.java](src/recursion/level1/PrintPermutation.java)           | 🟡 Medium  | 2025-11-28   | ✅          |
 
 
 
