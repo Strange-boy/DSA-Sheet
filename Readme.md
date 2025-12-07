@@ -56,7 +56,7 @@ This file tracks all DSA problems solved in Java, organized by topic.
 | 16  | Get Stair paths (1,2,3 jumps) | Pepcoding | [GetStairPaths.java](src/recursion/level1/GetStairPaths.java)               | 🟡 Medium  | 2025-11-23   | ❌          |
 | 17  | Get Maze paths (h or v)       | Pepcoding | [GetMazePaths.java](src/recursion/level1/GetMazePaths.java)                 | 🟡 Medium  | 2025-11-23   | ❌          |
 | 18  | Get Maze paths (h or v)       | Pepcoding | [GetMazePathsWithJump.java](src/recursion/level1/GetMazePathsWithJump.java) | 🟡 Medium  | 2025-11-24   | ❌          |
-| 18  | Get Maze paths (h or v)       | Pepcoding | [GetKeypadCombination.java](src/recursion/level1/GetKeypadCombination.java) | 🟡 Medium  | 2025-12-07   | ❌          |
+| 26  | Get Keypad combination        | Pepcoding | [GetKeypadCombination.java](src/recursion/level1/GetKeypadCombination.java) | 🟡 Medium  | 2025-12-07   | ❌          |
 
 ---
 
@@ -70,8 +70,7 @@ This file tracks all DSA problems solved in Java, organized by topic.
 | 22  | Print Maze Path With Jumps | Pepcoding | [PrintMazePathWithJumps.java](src/recursion/level1/PrintMazePathWithJumps.java) | 🟡 Medium  | 2025-11-28   | ✅        |
 | 24  | Print Permutations         | Pepcoding | [PrintPermutation.java](src/recursion/level1/PrintPermutation.java)             | 🟡 Medium  | 2025-11-28   | ✅        |
 | 25  | Print Encodings            | Pepcoding | [PrintEncoding.java](src/recursion/level1/PrintEncoding.java)                   | 🟡 Medium  | 2025-12-07   | ❌         |
-
-
+| 27  | Print Keypad Combination   | Pepcoding | [PrintKeypadCombination.java](src/recursion/level1/PrintKeypadCombination.java) | 🟡 Medium  | 2025-12-07   | ❌          |
 
 ---
 
