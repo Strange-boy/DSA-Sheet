@@ -74,9 +74,11 @@ This file tracks all DSA problems solved in Java, organized by topic.
 
 ## BackTracking
 
-| No. | Problem    | Platform  | Solution                                                     | Difficulty | Last Revised | Solved on my own |
-|-----|------------|-----------|--------------------------------------------------------------|------------|--------------|--------------|
-| 28  | Flood Fill | Pepcoding | [FloodFill.java](src/recursion/level1/PrintSubsequence.java) | 🔴 Hard    | 2025-12-13   | ❌        |
+| No. | Problem           | Platform  | Solution                                                          | Difficulty | Last Revised | Solved on my own |
+|-----|-------------------|-----------|-------------------------------------------------------------------|------------|--------------|-------------|
+| 28  | Flood Fill        | Pepcoding | [FloodFill.java](src/recursion/level1/PrintSubsequence.java)      | 🟡 Medium    | 2025-12-13   | ❌       |
+| 29  | Target Sum Subset | Pepcoding | [TargetSumSubset.java](src/recursion/level1/TargetSumSubset.java) | 🟡 Medium    | 2025-12-14   | ✅        |
+
 
 
 ---
