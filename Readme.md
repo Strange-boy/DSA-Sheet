@@ -78,7 +78,7 @@ This file tracks all DSA problems solved in Java, organized by topic.
 |-----|-------------------|-----------|-------------------------------------------------------------------|------------|--------------|-------------|
 | 28  | Flood Fill        | Pepcoding | [FloodFill.java](src/recursion/level1/PrintSubsequence.java)      | 🟡 Medium    | 2025-12-13   | ❌       |
 | 29  | Target Sum Subset | Pepcoding | [TargetSumSubset.java](src/recursion/level1/TargetSumSubset.java) | 🟡 Medium    | 2025-12-14   | ✅        |
-
+| 30  | Target Sum Subset | Pepcoding | [NQueens.java](src/recursion/level1/NQueens.java)                 | 🟡 Medium    | 2025-12-21   | ❌         |
 
 
 ---
