@@ -7,6 +7,7 @@
 | No. | Problem      | Platform  | Solution                                              | Difficulty | Last Revised | Solved on my own |
 |-----|--------------|-----------|-------------------------------------------------------|------------|--------------|------------------|
 | 1   | Add Last     | Pepcoding | [AddLast.java](AddLast.java)                         | 🟢 Easy    | 2026-01-20   | ✅ Yes           |
+| 2   | Display      | Pepcoding | [DisplayLinkedList.java](DisplayLinkedList.java)     | 🟢 Easy    | 2026-01-20   | ✅ Yes           |
 
 ---
 
@@ -22,6 +23,7 @@ A linked list is a linear data structure where elements are stored in nodes, and
 - **removeFirst()**: Remove element from the beginning
 - **removeLast()**: Remove element from the end
 - **removeAt()**: Remove element from a specific position
+- **display()**: Display all elements in the linked list
 - **getFirst()**: Get first element
 - **getLast()**: Get last element
 - **getAt()**: Get element at specific position
@@ -41,13 +43,13 @@ A linked list is a linear data structure where elements are stored in nodes, and
 ## 🚀 Progress
 
 - [x] Add Last operation
+- [x] Display operation
 - [ ] Add First operation  
 - [ ] Add At operation
 - [ ] Remove First operation
 - [ ] Remove Last operation
 - [ ] Remove At operation
 - [ ] Get operations
-- [ ] Display operation
 - [ ] Size operation
 - [ ] Reverse Linked List
 - [ ] Merge Two Linked Lists
