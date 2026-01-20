@@ -8,6 +8,7 @@
 |-----|--------------|-----------|-------------------------------------------------------|------------|--------------|------------------|
 | 1   | Add Last     | Pepcoding | [AddLast.java](AddLast.java)                         | 🟢 Easy    | 2026-01-20   | ✅ Yes           |
 | 2   | Display      | Pepcoding | [DisplayLinkedList.java](DisplayLinkedList.java)     | 🟢 Easy    | 2026-01-20   | ✅ Yes           |
+| 3   | Remove First | Pepcoding | [RemoveFirst.java](RemoveFirst.java)                 | 🟢 Easy    | 2026-01-20   | 🔶 With help     |
 
 ---
 
@@ -44,9 +45,7 @@ A linked list is a linear data structure where elements are stored in nodes, and
 
 - [x] Add Last operation
 - [x] Display operation
-- [ ] Add First operation  
-- [ ] Add At operation
-- [ ] Remove First operation
+- [x] Remove First operation
 - [ ] Remove Last operation
 - [ ] Remove At operation
 - [ ] Get operations
