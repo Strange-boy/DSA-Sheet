@@ -9,6 +9,7 @@
 | 1   | Add Last     | Pepcoding | [AddLast.java](AddLast.java)                         | 🟢 Easy    | 2026-01-20   | ✅ Yes           |
 | 2   | Display      | Pepcoding | [DisplayLinkedList.java](DisplayLinkedList.java)     | 🟢 Easy    | 2026-01-20   | ✅ Yes           |
 | 3   | Remove First | Pepcoding | [RemoveFirst.java](RemoveFirst.java)                 | 🟢 Easy    | 2026-01-20   | 🔶 With help     |
+| 4   | Get Value    | Pepcoding | [GetValue.java](GetValue.java)                       | 🟢 Easy    | 2026-01-24   | 🔶 With help     |
 
 ---
 
@@ -48,7 +49,7 @@ A linked list is a linear data structure where elements are stored in nodes, and
 - [x] Remove First operation
 - [ ] Remove Last operation
 - [ ] Remove At operation
-- [ ] Get operations
+- [x] Get Value operations (getFirst, getLast, getAt)
 - [ ] Size operation
 - [ ] Reverse Linked List
 - [ ] Merge Two Linked Lists
