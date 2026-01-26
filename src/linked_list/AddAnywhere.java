@@ -1,6 +1,6 @@
 package linked_list;
 
-public class AddLast {
+public class AddAnywhere {
     public static class Node {
         int data;
         Node next;
@@ -26,6 +26,23 @@ public class AddLast {
             }
 
             size += 1;
+        }
+
+        //in order to add at first in linked list
+        void addFirst(int value){
+            //you need to create a new node
+            Node temp = new Node();
+            temp.data = value;
+            temp.next = null;
+            
+            if(size == 0) {
+                head = tail = temp;    
+            } else {
+                temp.next = head;
+                head = temp;
+            }
+            
+            size++;
         }
 
         //helper method to display the linked list
@@ -64,6 +81,17 @@ public class AddLast {
         
         list.addLast(40);
         System.out.println("After adding 40:");
+        list.display();
+        System.out.println("Size: " + list.size);
+        
+        System.out.println("\nAdding elements to the beginning:");
+        list.addFirst(5);
+        System.out.println("After adding 5 at first:");
+        list.display();
+        System.out.println("Size: " + list.size);
+        
+        list.addFirst(2);
+        System.out.println("After adding 2 at first:");
         list.display();
         System.out.println("Size: " + list.size);
         
